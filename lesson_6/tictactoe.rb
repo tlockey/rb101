@@ -1,5 +1,5 @@
 =begin
-About: his is my attempt at solving the tictactoe game by myself.
+About: This is my attempt at solving the tictactoe game by myself.
 
 Improvements:
 I think the code could be cleaned up a lot. 
